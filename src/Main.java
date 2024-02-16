@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Arithmetic numbers = new Arithmetic(5,2);
+        Arithmetic numbers = new Arithmetic(6,3);
         numbers.summa();
         numbers.multiplication();
         numbers.maxAndMinNumber();
