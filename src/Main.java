@@ -7,7 +7,7 @@ public class Main {
         numbers.multiplication();
         numbers.maxAndMinNumber();
 
-        Arithmetic numbers2 = new Arithmetic(10,2);
+        Arithmetic numbers2 = new Arithmetic(10,3);
         numbers2.summa();
         numbers2.multiplication();
         numbers2.maxAndMinNumber();
